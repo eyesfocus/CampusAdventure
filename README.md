@@ -18,6 +18,9 @@ Features:
 - Game Over und Gewinnen
 
 Wenn du [HIER] [1] klickst, kannst du sogar Videos von der Anwendung anschauen.
+</br>
+</br>
+[!Screenshot](https://raw.github.com/eyesfocus/CampusAdventure/master/screenshot/runninggame.png)
 
 [1]: http://www.mi.hs-rm.de/~tsche001/flashdemos/campusadventure/win_game.htm               "HIER"
 
